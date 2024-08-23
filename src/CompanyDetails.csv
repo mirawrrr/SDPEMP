@@ -1,0 +1,6 @@
+Company_ID,CompanyName,CEmail,CPassword,CPhoneno,CDescription,CLocation,V_Document,CProfilePic,CStatus,Job_ID,likes,dislikes
+COMP535187,IKEA,IKEA@ikeahelp.com,IKEA@54366,02-34456677,A global home furnishings retailer,null,C:\Users\user\Downloads\ikeavdoc.pdf,C:\Users\user\OneDrive - Asia Pacific University\work\SDP2\Profile picture\ikealogo.jpg,approved,,30,5
+COMP675218,KAF Investment Banking,contact@kaf.com.my,KAFIB@password5466,(+603) 2708 2800,null,null,C:\Users\user\Downloads\KAFIBVDOC.pdf,C:\Users\user\OneDrive - Asia Pacific University\work\SDP2\Profile picture\KAFlogo.png,approved,,24,2
+COMP971328,Dell,askhelp@dell.com,dellpassword123,1800-266-889,null,null,C:\Users\user\Downloads\DELLVDOC.pdf,C:\Users\user\OneDrive - Asia Pacific University\work\SDP2\Profile picture\DELLlogo.png,approved,,10,6
+COMP415712,Shopee,ask@shopee.com,shopeeshopeepass1,1800-444-5656,null,null,C:\Users\user\Downloads\ikeavdoc.pdf,C:\Users\user\OneDrive - Asia Pacific University\work\SDP2\Profile picture\shopeelogo.png,approved,null,5,6
+COMP462191,innisfree,innisfree@apus.amorepacific.com,innisfree@@32556,03-7789 7888,null,null,C:\Users\user\Downloads\INNISFREEVDOC.pdf,C:\Users\user\OneDrive - Asia Pacific University\work\SDP2\Profile picture\innisfreelogo.png,approved,null,34,1
